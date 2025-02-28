@@ -1,0 +1,23 @@
+.spreadsheet-container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  input {
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: center;
+  }
+  
